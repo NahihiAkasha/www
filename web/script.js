@@ -7,11 +7,11 @@ document.addEventListener('DOMContentLoaded', function() {
     if (isAudioPlaying) {
       audio.pause();
       isAudioPlaying = false;
-      audioToggle.src = 'img/bgmoff';
+      audioToggle.src = 'img/bgmoff.png';
     } else {
       audio.play();
       isAudioPlaying = true;
-      audioToggle.src = 'img/bgmon';
+      audioToggle.src = 'img/bgmon.png';
     }
   }
 
