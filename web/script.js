@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const audioToggle = document.getElementById('audio-toggle');
-  const audio = new Audio('music.mp3');
+  const audio = new Audio('img/music.mp3');
   let isAudioPlaying = false;
 
   function toggleAudio() {
