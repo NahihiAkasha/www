@@ -3,6 +3,7 @@ body {
   padding: 0;
   text-align: center;
   background: linear-gradient(to right, #fff0f0, #f0f3ff, #f0fff9, #f8f0ff, #f3fff0, #f0fdff, #fffbf0);
+    width: 100%;
 }
 
 scroll-lock {
